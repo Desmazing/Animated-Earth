@@ -22,8 +22,8 @@ section{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     background: url(images/flat_earth.jpg);
     background-size: cover;
     border-radius: 50%;
